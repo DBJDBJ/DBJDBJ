@@ -21,9 +21,9 @@ UK National based in Serbia. Operating under the **DBJ.ORG** brand.
 
 ---
 
-## What I do
+## What I do, on the GitHub side 
 
-30+ years of software engineering. TOGAF-certified since 2011 — among the earliest globally.
+30+ years of software engineering. TOGAF (No:48359) -certified since 2011 — among the earliest globally.
 
 Current focus areas:
 
@@ -52,3 +52,7 @@ Domains: Banking, Life Science, Finance, Cloud, IP.
 ![](https://dbj.org/wp-content/uploads/2015/12/dbj-icon-e1459290680129.jpg)
 
 All the work is &copy; dbj@dbj.org | CC BY SA 4.0
+
+---
+
+![](https://dbj.org/wp-content/uploads/2021/02/DBJ-48359-TOGAF%C2%AE-9-Certificate.png)
