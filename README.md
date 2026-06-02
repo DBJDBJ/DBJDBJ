@@ -1,8 +1,14 @@
+![](https://dbj.org/wp-content/uploads/2015/12/dbj-icon-e1459290680129.jpg)
+
+All the work is &copy; dbj@dbj.org | CC BY SA 4.0
+
+---
+
 # Dusan Jovanovic — DBJ
 
 **Enterprise Architect · Programme Director · Systems Programmer**
 
-Based in Serbia. Operating under the **IronCodeLabs** brand.
+UK National based in Serbia. Operating under the **DBJ.ORG** brand.
 
 ---
 
@@ -10,7 +16,7 @@ Based in Serbia. Operating under the **IronCodeLabs** brand.
 
 - [dusanjovanovic.org](https://dusanjovanovic.org) — Professional site]
 - [dbj.org](https://dbj.org) — Personal Blog
-- [DBJ Method](https://method.dbj.org) 
+- [DBJ Method](https://method.dbj.org) - DBJ Method presentation and development
 - [DBJ Iceberg](https://iceberg.dbj.org) — DBJ Method Blog
 - [linkedin.com/in/dusanjovanovic](https://www.linkedin.com/in/dusanjovanovic)
 
@@ -46,4 +52,4 @@ Domains: Banking, Life Science, Finance, Cloud, IP.
 
 Skeptical of hype. Interested in what is actually feasible.
 
-> *Feasibility.*
+> *Feasibility.* Rules &trade;
