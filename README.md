@@ -1,4 +1,3 @@
-![](https://dbj.org/wp-content/uploads/2015/12/dbj-icon-e1459290680129.jpg)
 
 All the work is &copy; dbj@dbj.org | CC BY SA 4.0
 
@@ -48,8 +47,8 @@ Domains: Banking, Life Science, Finance, Cloud, IP.
 
 ---
 
-## Disposition
+#### *Feasibility Rules* &trade;
 
-> Interested in what is actually feasible.
+![](https://dbj.org/wp-content/uploads/2015/12/dbj-icon-e1459290680129.jpg)
 
-> *Feasibility.* Rules &trade;
+All the work is &copy; dbj@dbj.org | CC BY SA 4.0
