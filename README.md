@@ -41,18 +41,19 @@ Domains: Banking, Life Science, Finance, Cloud, IP.
 ## Current work
 
 - [DBJ Method](https://method.dbj.org) 
-- Clients [IronCodeLabs](https://dusanjovanovic.org) — enterprise architecture consulting
-- C23 systems programming research
+- [DBJ Method Iceberg](https://iceberg.dbj.org) - blog in and arround DBJ.Method
+- Clients [IronCodeLabs](https://ironcodelabs.com) — enterprise architecture consulting
+- [Post Hype Agentic](https://iceberg.dbj.org/posts/post-hype-agents/) &amp; systems development research
 - LLM/Agent architecture and tooling
 
 ---
 
 #### *Feasibility Rules* &trade;
 
-![](https://dbj.org/wp-content/uploads/2015/12/dbj-icon-e1459290680129.jpg)
+<img src="https://dbj.org/wp-content/uploads/2015/12/dbj-icon-e1459290680129.jpg" width="32px" />
 
 All the work is &copy; dbj@dbj.org | CC BY SA 4.0
 
 ---
 
-![](https://dbj.org/wp-content/uploads/2021/02/DBJ-48359-TOGAF%C2%AE-9-Certificate.png)
+<img src="https://dbj.org/wp-content/uploads/2021/02/DBJ-48359-TOGAF%C2%AE-9-Certificate.png" width="50%" />
