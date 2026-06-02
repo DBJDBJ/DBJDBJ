@@ -13,11 +13,11 @@ UK National based in Serbia. Operating under the **DBJ.ORG** brand.
 
 ## Links
 
-- [dusanjovanovic.org](https://dusanjovanovic.org) — Professional site]
 - [dbj.org](https://dbj.org) — Personal Blog
 - [DBJ Method](https://method.dbj.org) - DBJ Method presentation and development
 - [DBJ Iceberg](https://iceberg.dbj.org) — DBJ Method Blog
 - [linkedin.com/in/dusanjovanovic](https://www.linkedin.com/in/dusanjovanovic)
+- [dusanjovanovic.org](https://dusanjovanovic.org) — Deprecated Professional site 
 
 ---
 
