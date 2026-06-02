@@ -50,6 +50,6 @@ Domains: Banking, Life Science, Finance, Cloud, IP.
 
 ## Disposition
 
-Skeptical of hype. Interested in what is actually feasible.
+> Interested in what is actually feasible.
 
 > *Feasibility.* Rules &trade;
