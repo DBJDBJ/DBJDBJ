@@ -8,8 +8,10 @@ Based in Serbia. Operating under the **IronCodeLabs** brand.
 
 ## Links
 
-- [dusanjovanovic.org](https://dusanjovanovic.org) — Professional site
-- [dbj.org](https://dbj.org) — Blog
+- [dusanjovanovic.org](https://dusanjovanovic.org) — Professional site]
+- [dbj.org](https://dbj.org) — Personal Blog
+- [DBJ Method](https://method.dbj.org) 
+- [DBJ Iceberg](https://iceberg.dbj.org) — DBJ Method Blog
 - [linkedin.com/in/dusanjovanovic](https://www.linkedin.com/in/dusanjovanovic)
 
 ---
@@ -33,7 +35,8 @@ Domains: Banking, Life Science, Finance, Cloud, IP.
 
 ## Current work
 
-- [IronCodeLabs](https://dusanjovanovic.org) — enterprise architecture consulting
+- [DBJ Method](https://method.dbj.org) 
+- Clients [IronCodeLabs](https://dusanjovanovic.org) — enterprise architecture consulting
 - C23 systems programming research
 - LLM/Agent architecture and tooling
 
@@ -41,6 +44,6 @@ Domains: Banking, Life Science, Finance, Cloud, IP.
 
 ## Disposition
 
-Skeptical of hype. Interested in what actually works.
+Skeptical of hype. Interested in what is actually feasible.
 
 > *Feasibility.*
